@@ -4,7 +4,7 @@
 
 This is the source code of "MHier-RAG: Multi-Modal RAG for Visual-Rich Document Question-Answering via Hierarchical and Multi-Granularity Reasoning".
 
-This manuscript has been submitted to ICME 2026.
+This manuscript has been submitted to ICIC 2026.
 
 ## Requirements
 
